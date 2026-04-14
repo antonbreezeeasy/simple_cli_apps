@@ -1,0 +1,3 @@
+[submodule "todo_apps/todo_01"]
+	path = todo_apps/todo_01
+	url = https://github.com/andro-dev/To-do-list_app.git
