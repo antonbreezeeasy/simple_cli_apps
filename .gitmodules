@@ -4,3 +4,6 @@
 [submodule "todo_apps/todo_02"]
 	path = todo_apps/todo_02
 	url = https://github.com/andro-dev/todo_02.git
+[submodule "user_login_apps"]
+	path = user_login_apps
+	url = https://github.com/antonbreezeeasy/user_login_apps.git
